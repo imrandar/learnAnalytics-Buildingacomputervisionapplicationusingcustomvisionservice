@@ -1,20 +1,41 @@
----
-layout: default
----
+# Welcome
 
-# Cloud AI Bootcamp
+Welcome to this half-day workshop on the custom vision service. In this workshop, we will focus on hands-on activities that develop proficiency with the custom vision service.
 
-The goal of this four day bootcamp is to provide a kick-start to individuals who need to develop deeper proficiency with the range of the Microsoft Cloud AI platform. These days are not "Getting Started with..." the various services and assume a 100-200-level familiarity with the products prior to getting started.
+# Goals
 
-The structure of all 4-days is intended to be hands-on. Each lab should be able to be run in relative isolation, so as long as **appropriate pre-requisites are met**, an individual should be able to complete a given lab without needing to complete the others.
+At the end of this workshop, you should be able to effectively leverage the custom vision service to create image classification services that can then be leveraged by an application
 
-## Emerging AI Developers
+# Pre-requisites
 
-Days one and two are oriented towards emerging AI Developers who are interested in leveraging AI-based technologies and services to build intelligent applications. These two days focus on hands-on activities that develop proficiency in AI-oriented services such as Azure Bot Services, Azure Search, and some of the Cognitive Services. For more details about the set of learning objectives, pre-requisites, and a tentative schedule, please see the appropriate [details file](emergingaidev_bootcamp).
+This workshop is meant for an AI Developer on Azure. Since this is only a short workshop, there are certain things you need before you arrive.
 
-## Professional AI Developers
+Firstly, you should have some previous exposure to Visual Studio. We will be using it for everything we are building in the workshop, so you should be familiar with [how to use it](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide) to create applications. Additionally, this is not a class where we teach you how to code or develop applications. We assume you have some familiarity with C# (intermediate level - you can learn [here](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)), but you do not know how to implement solutions with Cognitive Services.
 
-Days three and four are oriented towards professional AI developers and Data Scientists who are interested in developing proficiency tools that will simplify the full data science lifecycle. These two days focus on hands-on activities that develop proficiency in AI-oriented workflows leveraging Azure Machine Learning Workbench and Services, the Team Data Science Process, Visual Studio Team Services, Azure Batch AI, and Azure Container Services. For more details about the set of learning objectives, pre-requisites, and a tentative schedule, please see the appropriate [details file](proaidev_bootcamp).
+Thirdly, you should have experience with the portal and be able to create resources (and spend money) on Azure. We will not be providing Azure passes for this workshop.
+
+Finally, before arriving at the workshop, we expect you to have configured the following for Custom Vision:
+
+* Training API Key: The training API key allows you to create, manage and train Custom Vision project programmatically. You can obtain a key by creating a new project at [https://customvision.ai](https://customvision.ai) and then clicking on the ``setting'' gear in the top right. 
+
+# Agenda
+
+Please note: This is a rough proposed agenda, and the schedule is subject to change pending class activities and interaction.
+
+- 9-9:30: Introduction and Context 
+- 9:30-9:55: [Lab 1: Creating an Image Classification Application using the Custom Vision Service ][lab01]
+- 10-10:25: [Lab 2: Creating an Image Classification Application using the Custom Vision Service][lab02]
+- 10:30-10:55: [Lab 3: Creating an Image Classification Application using the Custom Vision Service][lab03]
+- 11:00-12:00: Discussion and Use-case
+
+# Discussion Forum
+
+We will also use a gitter forum for discussion. Please post comments and questions [here][gitter].
+
+[lab01]: lab01/0_README.md
+[lab02]: lab02/0_README.md
+[lab03]: lab03/0_README.md
+[gitter]: https://gitter.im/LearnAI-Bootcamps
 
 # Contributing
 
