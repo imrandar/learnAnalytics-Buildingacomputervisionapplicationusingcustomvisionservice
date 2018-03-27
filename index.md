@@ -16,7 +16,7 @@ Thirdly, you should have experience with the portal and be able to create resour
 
 Finally, before arriving at the workshop, we expect you to have configured the following for Custom Vision:
 
-* Training API Key: The training API key allows you to create, manage and train Custom Vision project programmatically. You can obtain a key by creating a new project at [https://customvision.ai](https://customvision.ai) and then clicking on the ``setting'' gear in the top right. 
+* Training API Key: The training API key allows you to create, manage and train Custom Vision project programmatically. You can obtain a key by creating a new project at [https://customvision.ai](https://customvision.ai) and then clicking on the "setting" gear in the top right. 
 
 # Agenda
 
