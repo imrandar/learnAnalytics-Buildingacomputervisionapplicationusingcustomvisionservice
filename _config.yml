@@ -1,5 +1,5 @@
-title: Learn AI Bootcamp Materials
-description: Microsoft labs for learning to develop AI-oriented applications.
+title: Building a Computer Vision Application Leveraging the Custom Vision Service
+description: Microsoft labs for learning to develop with the Custom Vision Service
 show_downloads: true
 theme: jekyll-theme-cayman
-repository: Azure/LearnAI-Bootcamp
+repository: Azure/learnAnalytics-Buildingacomputervisionapplicationleveragingthecustomvisionservice
